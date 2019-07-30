@@ -1,0 +1,18 @@
+{
+  "name": "Age_Calculator",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^33.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "ciqu-react-calendar": "1.0.2",
+    "moment": "2.24.0",
+    "react-native-datepicker": "1.7.2",
+    "react-native-paper": "2.16.0",
+    "react-native-vector-icons": "6.6.0"
+  }
+}
